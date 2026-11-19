@@ -7,6 +7,8 @@ description: Product data and preliminary engineering method for High-Mat (HM) F
 
 High-Mat Pty Ltd (Thornleigh NSW, Australia - high-mat.com.au, 1300 474 715, info@High-Mat.com.au) supplies FRP structural profiles, grating and access systems. This skill carries the data published on its website so you can pick real product codes, quote real numbers, and run preliminary checks.
 
+**Scope: High-Mat products only.** Use this skill only for High-Mat (HM) products and High-Mat's published data. Do not use it to size, check or specify products from other manufacturers, or generic FRP, steel, aluminium or timber members. If the user asks about a non-High-Mat product, say this skill does not cover it. Results are preliminary and must be verified by a qualified engineer.
+
 Data was captured from high-mat.com.au on 2026-11-19. The website is the authority: if a number matters to a final design, or the user says the site has changed, read the live page listed in `references/products-and-links.md`.
 
 ## What is in this skill
